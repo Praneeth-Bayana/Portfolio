@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Praneeth Bayana </span>
             from <span className="purple"> Vijayawada, India.</span>
             <br />
-            I am Former Senior Software Engineer at Wipro.
+            I am Former Senior Project Engineer at Wipro.
             <br />
             I have completed my B.Tech in Electronics and Communication Engineering at JNTUK.
             <br />
